@@ -5,6 +5,21 @@
   </p>
   <img src="Blue And Yellow Modern Cybersecurity Specialist LinkedIn Bannerrrrrr.png" alt="Mokkapps GitHub README header image">
 <h3>Things I code with</h3>
+
+
+
+## 📝 About Me
+
+I am a passionate **Full-Stack Developer** dedicated to building scalable and user-centric web applications. Currently, I am leveling up my expertise in the modern web ecosystem.
+
+- 🚀 **Currently Exploring:** Deep diving into **Next.js 16** (App Router) and mastering **TypeScript** for type-safe development.
+- 🔐 **Security Focus:** Implementing robust authentication flows using **JWT (JSON Web Tokens)** and **NextAuth.js** to ensure top-tier application security.
+- 🛠️ **Current Project:** Building **AutoPro**, an advanced Fleet & Service Management system using the latest React 19 features.
+- 🧩 **Problem Solving:** Regularly sharpening my logic on **CodeChef** and other competitive programming platforms to write efficient algorithms.
+- 💬 **Ask me about:** React, Node.js, MongoDB, and how to build high-performance MERN applications.
+- 📫 **Reach me at:** [foysaliqbalutsob2202113@gmail.com](mailto:foysaliqbalutsob2202113@gmail.com)
+
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  
@@ -42,41 +57,80 @@
 
 <h3>My latest posts</h3>
 
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://github.com/foysaliqbalutsob/assignment_11_Client.git"> AssetVerse (Frontend)-project<b><img src="" width="20" alt="new" /> </b></a><br/><i>AssetVerse is a modern asset management web application frontend built with React.!.</i></li>
 
 
 
+## 🚀 Featured Projects (with Screenshots)
 
-  <li><a href="https://github.com/foysaliqbalutsob/assignment_11_server.git">  An Asset Management System.-project<b> </b></a><br/><i>AssetVerse is a modern asset management web application ,This is the backend server for AssetVerse.!.</i></li>
+### 1. [AutoPro - Fleet Management System](https://car-management-topaz-eta.vercel.app/)
+*Advanced vehicle tracking system built with Next.js 16 and React 19.*
 
-  <li><a href="https://github.com/foysaliqbalutsob/assigment--10-client.git"> Community Cleanliness (Frontend)-project<b><img src="" width="20" alt="new" /> </b></a><br/><i>Community Cleanliness & Issue Reporting Portal.!.</i></li>
-  
-</ul>
+| Desktop Preview | Mobile / Dashboard View |
+| :---: | :---: |
+| <img src="https://i.ibb.co.com/6JTLRR6b/Screenshot-2026-01-20-080015.png" width="400" alt="AutoPro Desktop"> | <img src="https://i.ibb.co.com/bMh70hrG/Screenshot-2026-01-20-080057.png" width="185" alt="AutoPro Mobile"> |
 
-<h3>Where to find me</h3>
+### 2. [AssetVerse - Management Solution](https://hr-emoloyee-site.web.app/)
+*Modern asset management web application built with MERN stack.*
+
+| Landing Page | Admin Panel |
+| :---: | :---: |
+| <img src="https://i.ibb.co.com/k2Ly7w19/Screenshot-2026-01-20-094256.png" width="400" alt="AssetVerse 1"> | <img src="https://i.ibb.co.com/DfYsZvYL/Screenshot-2026-01-20-094325.png" width="400" alt="AssetVerse 2"> |
+
+
+### 2. [Portfolio - Management Solution](https://portfolio-xi-lilac-328b7awdd2.vercel.app/)
+*Modern asset management web application built with MERN stack.*
+
+| Landing Page | Admin Panel |
+| :---: | :---: |
+| <img src="https://i.ibb.co.com/HTPTP973/Screenshot-2026-01-20-095629.png" width="400" alt="AssetVerse 1"> | <img src="https://i.ibb.co.com/C54gmKML/Screenshot-2026-01-20-095554.png" width="400" alt="AssetVerse 2"> |
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=foysaliqbalutsob&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 📫 Where to find me
 <p>
   <a href="https://github.com/foysaliqbalutsob" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
+  </a>
 
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+   <a href="https://www.facebook.com/yourusername" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a> 
-  <a href="www.linkedin.com/in/foysal-iqbal-utsob2202113" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/foysal-iqbal-utsob2202113" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-
   <a href="mailto:foysaliqbalutsob2202113@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://wa.me/880-1751799866" target="_blank">
+  <a href="https://wa.me/8801751799866" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2315B52D.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
+</p
 
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ------------
